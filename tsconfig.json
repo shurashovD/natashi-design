@@ -1,0 +1,16 @@
+{
+    "include": ["./server"],
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,
+        "lib": ["ES6"],
+        "target": "ES6",
+        "allowJs": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true
+    }
+}
